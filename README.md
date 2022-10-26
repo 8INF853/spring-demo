@@ -11,19 +11,23 @@ $ cd spring-demo
 
 <br />
 
-### 👉 Start for `Unix`, `MacOS` 
-> Start the app
+### 👉 Start the app 
+> Start for `Unix`, `MacOS` 
 
 ```bash
 ./mvnw spring-boot:run
 ```
 
-<br />
-
-### 👉 Start for `Windows` 
-> Start the app
+> Start for `Windows` 
 
 ```bash
 mvnw spring-boot:run
 ```
 
+### 👉 Access the app
+
+
+> Via browser
+```bash
+http://localhost:8080/hello
+```
